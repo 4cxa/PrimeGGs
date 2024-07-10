@@ -1,15 +1,24 @@
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  margin: 0;
-  font-family: 'Barbara Libre', Arial, sans-serif;
-  background-color: #140444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Barbara Libre', Arial, sans-serif;
+    background-color: #140444;
 }
 
 .container {
-  text-align: center;
-  font-size: 1.5em;
-  color: #0047FF;
+    text-align: center;
+    color: #0047FF;
+}
+
+.logo {
+    max-width: 200px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.5em;
+    margin: 0;
 }
