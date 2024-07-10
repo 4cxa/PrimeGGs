@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Barbara Libre', Arial, sans-serif;
+  background-color: #140444;
+}
+
+.container {
+  text-align: center;
+  font-size: 1.5em;
+  color: #0047FF;
+}
